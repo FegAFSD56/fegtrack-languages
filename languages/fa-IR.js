@@ -20,14 +20,15 @@ const LABELS = {
   STAKED: "استیک شده",
   REWARDS_FROM: "پاداشها_از",
   EDIT_WALLET: "ویرایش_کیف پول",
-  SETTINGS: "Settings",
-  THEME: "Theme",
-  LANGUAGE: "Language",
-  SINCE: "Since",
-  POOL_SHARE: "Pool Share",
-  UNCLAIMED: "Unclaimed",
-  COPY_NOTICE: "Wallet address copied to clipboard",
-  WALLET_DESIGN: "Wallet Design",
+  SETTINGS: "تنظیمات",
+  THEME: "زمینه",
+  LANGUAGE: "گویش",
+  SINCE: "از",
+  POOL_SHARE: "سهم استخر",
+  UNCLAIMED: "مطالبه نشده",
+  COPY_NOTICE:
+ "کپی آدرس کیف پول",
+  WALLET_DESIGN: "طرح کیف پول",
 }
 
 export {LABELS};
