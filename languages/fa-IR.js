@@ -11,7 +11,7 @@ const LABELS = {
   CLOSE: "بستن",
   PLATINUM: "پلاتینیوم",
   GOLD: "طلا",
-  RED: "قرنز",
+  RED: "قرمز",
   BLUE: "آبی",
   YELLOW: "زرد",
   GREEN: "سبز",
